@@ -6,7 +6,7 @@
 * 
 *  Name: Thi Ngoc Yen Tran       Student ID: 118828235       Date: Feb 26, 2024
 * 
-* Online (Cycliic) Link: https://real-tan-cockroach-hat.cyclic.app
+* Online (cyclic) Link: https://real-tan-cockroach-hat.cyclic.app
 *
 ********************************************************************************/
 
